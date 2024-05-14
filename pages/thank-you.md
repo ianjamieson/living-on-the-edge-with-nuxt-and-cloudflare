@@ -1,5 +1,6 @@
 ---
 layout: center
+hideInToc: true
 ---
 <NovaMantis></NovaMantis>
 

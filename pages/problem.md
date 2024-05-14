@@ -16,6 +16,7 @@
   - better seo
   - more reliable uptime
   - better performance
+  - higher conversion
 
 - bear in mind
   - high traffic

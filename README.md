@@ -99,7 +99,7 @@ await new Promise(resolve => setTimeout(resolve, 5000));
 
 ```vue
 <script lang="ts" setup>
-const { data, refresh } = useFetch('/api/post/1');
+const { data, refresh, pending } = useFetch('/api/post/1');
 </script>
 <template>
 <button @click="refresh()">refresh</button>

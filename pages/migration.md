@@ -3,9 +3,6 @@
 <NovaMantis></NovaMantis>
 # incremental migration
 
-- our event page was already live with many complex features for specific events
-- we could use wrangler.toml file to specify routes to redirect to workers
-
 
 <!-- ```toml {all|3}
 [env.production]
@@ -30,3 +27,8 @@ routes = [
 ]
 ```
 ````
+
+<!--
+- our event page was already live with many complex features for specific events
+- we could use wrangler.toml file to specify routes to redirect to workers
+-  -->
